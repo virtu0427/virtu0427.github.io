@@ -48,7 +48,7 @@ main:
     name: 23년도
     url: /seminar/23
     weight: 110
-  - parent: 발표자료
+  - parent: 발표 자료
     name: 24년도
     url: /seminar/24
     weight: 120
