@@ -3,19 +3,32 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
-main:
-  - name: 홈
-    url: /
-    weight: 10
+main:  
   - name: 소개
     url: about/
     weight: 20
+  - parent: 소개
+    name: 학적 사항
+    url: /about/academic
+    weight: 30
+  - parent: 소개
+    name: 연구실
+    url: /about/lab
+    weight: 40
+
+  - name: 관심 분야
+    url: interest/
+    weight: 10
+  
+
   - name: 프로젝트
     url: project/
     weight: 20
-  - name: 세미나자료
+
+  - name: 발표 자료
     url: seminar/
     weight: 20
-  - name: 수상내역
+
+  - name: 수상 내역
     url: award/
     weight: 20
