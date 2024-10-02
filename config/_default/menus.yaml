@@ -8,13 +8,13 @@ main:
     weight: 10
   - parent: 소개
     name: 학적 사항
-    url: /about/academic
+    url: /academic
     weight: 20
   - parent: 소개
     name: 연구실
     url: /about/lab
     weight: 30
-    
+
   - name: 관심 분야
     url: interest/
     weight: 40
