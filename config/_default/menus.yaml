@@ -3,64 +3,128 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
-main:  
-  - name: 소개
-    url: about/
-    weight: 10
-  - parent: 소개
-    name: 학적 사항
-    url: /about/academic
-    weight: 20
-  - parent: 소개
-    name: 연구실
-    url: /about/lab
-    weight: 30
+languages:
+  ko:
+    main:  
+      - name: 소개
+        url: about/
+        weight: 10
+      - parent: 소개
+        name: 학적 사항
+        url: /about/academic
+        weight: 20
+      - parent: 소개
+        name: 연구실
+        url: /about/lab
+        weight: 30
 
-  - name: 관심 분야
-    url: interest/
-    weight: 40
-  - parent: 관심 분야
-    name: 정보 보안
-    url: /interest/security
-    weight: 50
-  - parent: 관심 분야
-    name: 개발
-    url: /interest/develop
-    weight: 60
-  
+      - name: 관심 분야
+        url: interest/
+        weight: 40
+      - parent: 관심 분야
+        name: 정보 보안
+        url: /interest/security
+        weight: 50
+      - parent: 관심 분야
+        name: 개발
+        url: /interest/develop
+        weight: 60
+      
 
-  - name: 프로젝트
-    url: project/
-    weight: 70
-  - parent: 프로젝트
-    name: 정보 보안 프로젝트
-    url: /project/security
-    weight: 80
-  - parent: 프로젝트
-    name: 개발 프로젝트
-    url: /project/develop
-    weight: 90
+      - name: 프로젝트
+        url: project/
+        weight: 70
+      - parent: 프로젝트
+        name: 정보 보안 프로젝트
+        url: /project/security
+        weight: 80
+      - parent: 프로젝트
+        name: 개발 프로젝트
+        url: /project/develop
+        weight: 90
 
-  - name: 발표 자료
-    url: seminar/
-    weight: 100
-  - parent: 발표 자료
-    name: 23년도
-    url: /seminar/23
-    weight: 110
-  - parent: 발표 자료
-    name: 24년도
-    url: /seminar/24
-    weight: 120
+      - name: 발표 자료
+        url: seminar/
+        weight: 100
+      - parent: 발표 자료
+        name: 23년도
+        url: /seminar/23
+        weight: 110
+      - parent: 발표 자료
+        name: 24년도
+        url: /seminar/24
+        weight: 120
 
-  - name: 수상 내역
-    url: award/
-    weight: 130
-  - parent: 수상 내역
-    name: 보안 대회
-    url: /award/security
-    weight: 140
-  - parent: 수상 내역
-    name: 기타 대회
-    url: /award/etc
-    weight: 150
+      - name: 수상 내역
+        url: award/
+        weight: 130
+      - parent: 수상 내역
+        name: 보안 대회
+        url: /award/security
+        weight: 140
+      - parent: 수상 내역
+        name: 기타 대회
+        url: /award/etc
+        weight: 150
+  en:
+    main:  
+      - name: About
+        url: about/
+        weight: 10
+      - parent: About
+        name: Academic
+        url: /about/academic
+        weight: 20
+      - parent: About
+        name: Lab
+        url: /about/lab
+        weight: 30
+
+      - name: Interest
+        url: interest/
+        weight: 40
+      - parent: Interest
+        name: Cyber Security
+        url: /interest/security
+        weight: 50
+      - parent: Interest
+        name: Develop
+        url: /interest/develop
+        weight: 60
+      
+
+      - name: Project
+        url: project/
+        weight: 70
+      - parent: Project
+        name: Security Project
+        url: /project/security
+        weight: 80
+      - parent: Project
+        name: Develop Project
+        url: /project/develop
+        weight: 90
+
+      - name: Seminar
+        url: seminar/
+        weight: 100
+      - parent: Seminar
+        name: 23-years
+        url: /seminar/23
+        weight: 110
+      - parent: Seminar
+        name: 24-years
+        url: /seminar/24
+        weight: 120
+
+      - name: Award
+        url: award/
+        weight: 130
+      - parent: Award
+        name: Security Contest
+        url: /award/security
+        weight: 140
+      - parent: Award
+        name: etc
+        url: /award/etc
+        weight: 150
