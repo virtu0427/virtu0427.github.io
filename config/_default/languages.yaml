@@ -7,12 +7,16 @@ ko:
   languageCode: ko
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
+  weight: 1
+  title: 조대인의 포트폴리오
   contentDir: content/ko
 # Uncomment the lines below to configure your website in a second language.
 
 en:
   languageCode: en
+  weight: 2
   contentDir: content/en
+  title: daein's portfolio
 #zh:
 #  languageCode: zh-Hans
 #  contentDir: content/zh
