@@ -1,9 +1,7 @@
 ---
-# Homepage
-type: widget_page
-
-# Homepage is headless, other widget pages are not.
-headless: false
+title: "Academic"
+date: 2024-10-02
+url: "/about/academic/"
 ---
 
-hello world!
+Welcome to the academic section. Here you will find information about our academic achievements, research, and educational programs.
