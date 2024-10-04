@@ -10,7 +10,7 @@ sections:
     id: section-1
     content:
         title: Section 1
-        text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+        text: ![hello](/static/images/avatar.jpg) Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
         view: showcase
 ---
