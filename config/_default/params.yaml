@@ -89,8 +89,6 @@ features:
       category_id: ''
   search:
     provider: 'wowchemy'
-      min_length: 1
-      threshold: 0.3
     algolia:
       app_id: ''
       api_key: ''
