@@ -6,38 +6,14 @@ main:
   - name: 소개
     url: about/
     weight: 10
-  - parent: 소개
-    name: 학적 사항
-    url: /about/academic
-    weight: 20
-  - parent: 소개
-    name: 연구실
-    url: /about/lab
-    weight: 30
 
   - name: 관심 분야
     url: interest/
     weight: 40
-  - parent: 관심 분야
-    name: 정보 보안
-    url: /interest/security
-    weight: 50
-  - parent: 관심 분야
-    name: 개발
-    url: /interest/develop
-    weight: 60
   
   - name: 프로젝트
     url: project/
     weight: 70
-  - parent: 프로젝트
-    name: 정보 보안 프로젝트
-    url: /project/security
-    weight: 80
-  - parent: 프로젝트
-    name: 개발 프로젝트
-    url: /project/develop
-    weight: 90
     
   - name: 발표 자료
     url: seminar/

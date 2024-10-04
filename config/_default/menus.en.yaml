@@ -6,37 +6,15 @@ main:
   - name: About
     url: about/
     weight: 10
-  - parent: About
-    name: Academic
-    url: /about/academic
-    weight: 20
-  - parent: About
-    name: Lab
-    url: /about/lab
-    weight: 30
+
   - name: Interest
     url: interest/
     weight: 40
-  - parent: Interest
-    name: Cyber Security
-    url: /interest/security
-    weight: 50
-  - parent: Interest
-    name: Develop
-    url: /interest/develop
-    weight: 60
   
   - name: Project
     url: project/
     weight: 70
-  - parent: Project
-    name: Security Project
-    url: /project/security
-    weight: 80
-  - parent: Project
-    name: Develop Project
-    url: /project/develop
-    weight: 90
+
   - name: Seminar
     url: seminar/
     weight: 100
