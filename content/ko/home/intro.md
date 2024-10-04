@@ -16,6 +16,9 @@ design:
 #    video:
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
+sections:
+  title: 소개
+  content:
     text: 안녕하세요, 저는 전북대학교 IT정보공학과 재학중인 조대인 입니다! 현재 정보보호 연구실(BCG 연구실)에서 연구활동을 진행하고 있어요. 정보보안과 관련해서 여러 프로젝트를 진행할 수 있으니 필요시 문의 부탁드립니다!
 ---
 
