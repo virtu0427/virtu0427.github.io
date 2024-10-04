@@ -16,12 +16,11 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: |-
-        <br> <span style="font-size:95%">전북대학교 의료 AI 및 계산 수학 연구실 (Macs)의 학부연구생/석사 position에 관심 있으시면 아래로 연락주시면 감사드리겠습니다.</span> <br>
-      email: ksl(at)jbnu.ac.kr
-      phone: +82-63-270-2406
+      text: 안녕하세요! 전북대학교 3학년 재학중인 조대인입니다. 저는 정보보안에 관심이 있으며 특히 침해사고대응과 모의해킹 분야를 공부하고 있습니다. 또 전북대학교 공과대학 7호관 402호 정보보호 연구실에서 연구활동을 진행하고 있습니다.
+      email: jdi0427@jbnu.ac.kr
+      phone: +82-010-3346-4670
       address:
-        street: 전북대학교 공과대학 7호관 626호
+        street: 전북대학교 공과대학 7호관 402호 정보보호 연구실
         city: 전주시
         region: 전라북도
         postcode: '54896'
@@ -31,23 +30,7 @@ sections:
         latitude: '35.84601324617979'
         longitude: '127.13444961966684'
       directions: 
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
       autolink: true
-    
-      # # Email form provider
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: true
     design:
       columns: '3'
 ---
