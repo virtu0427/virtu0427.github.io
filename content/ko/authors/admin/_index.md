@@ -14,11 +14,11 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: 조대인
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 제 연구분야는 정보 보안입니다. 침해사고 대응 및 모의해킹에 관심을 가지고 있으니, 필요시 문의 바랍니다!
 
 #interests:
 #- Artificial Intelligence
@@ -44,7 +44,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: "mailto:jdi0427@naver.com"
+    # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
