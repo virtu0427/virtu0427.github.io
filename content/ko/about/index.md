@@ -9,8 +9,11 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Section 1
-      image:
-        filename: avatar.jpg
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+        title: image
+        image:
+            filename: /static/images/avatar.jpg
+        title: Section 1
+        text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    design:
+        view: showcase
 ---
