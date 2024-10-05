@@ -30,6 +30,3 @@ sections:
     design:
       columns: '3'
 ---
-
-블로그는 아래 링크를 참조해주세요
-https://chaseit.tistory.com/
