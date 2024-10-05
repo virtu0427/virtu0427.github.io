@@ -27,3 +27,5 @@ sections:
     design:
       columns: '3'
 ---
+here is my blog link!
+https://chaseit.tistory.com/
