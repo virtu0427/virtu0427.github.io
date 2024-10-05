@@ -6,13 +6,6 @@ type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
-  - block: markdown
-    id: section-1
-    content:
-        title: Section 1
-        text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    design:
-        view: showcase
   - block: contact
     content:
       title: Contact
