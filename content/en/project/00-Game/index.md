@@ -3,11 +3,11 @@ title: Nonsense Game Making Project
 date: 2024-03-31
 ---
 
-JAVA를 이용하여 넌센스 게임을 만드는 프로젝트 입니다.
+It is a project to make nonsense games using JAVA.
 
 <!--more-->
 
-JAVA를 기반으로 만든 넌센스게임 애플리케이션 입니다.
-git 링크는 다음과 같습니다.
+It is a nonsense game application based on JAVA.
+The git link is as follows.
 
 https://github.com/ChatHongPT/2024-JAVA-PROJECT
