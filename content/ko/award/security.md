@@ -6,12 +6,14 @@ type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
+  - block: image1
+    content:
+      image: 'ai.jpg'
   - block: markdown
     id: section-1
     content:
       title: Section 1
       subtitle: A subtitle
-      image: ![screen reader text](ai.jpg "caption")
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: markdown
     id: section-2
