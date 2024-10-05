@@ -35,7 +35,7 @@ sections:
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
-      is_fullscreen: true
-      loop: true
+      is_fullscreen: false
+      loop: false
       interval: 2000
 ---
