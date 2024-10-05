@@ -6,9 +6,6 @@ type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
-  - block: person
-    content:
-      title: 조대인
   - block: contact
     content:
       title: Contact
