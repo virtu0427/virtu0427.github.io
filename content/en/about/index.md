@@ -9,7 +9,7 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: Hello! I'm Cho Dae-in, a third-year student at Chonbuk National University. I'm interested in information security, and I'm especially studying the field of intrusion response and mock hacking. In addition, I'm conducting research activities in the information protection lab at Chonbuk National University's engineering college, No. 7 and No. 402.
+      text: Hello! I'm Cho Dae-in, a third-year student at Chonbuk National University. I'm interested in information security, and I'm especially studying the field of intrusion response and mock hacking. In addition, I'm conducting research activities in the information protection lab at Chonbuk National University's engineering college, No. 7 and No. 402.here is my blog link! https://chaseit.tistory.com/
       email: jdi0427@jbnu.ac.kr
       phone: +82-010-3346-4670
       address:
@@ -27,5 +27,3 @@ sections:
     design:
       columns: '3'
 ---
-here is my blog link!
-https://chaseit.tistory.com/
