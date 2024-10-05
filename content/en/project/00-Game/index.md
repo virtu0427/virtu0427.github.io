@@ -1,5 +1,5 @@
 ---
-title: 넌센스 게임 만들기 프로젝트
+title: Nonsense Game Making Project
 date: 2024-03-31
 ---
 
