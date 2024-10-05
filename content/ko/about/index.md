@@ -4,7 +4,7 @@ title: About
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
-widget: about.avatar
+author: admin
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
