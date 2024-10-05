@@ -4,6 +4,9 @@ title: About
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
+authors:
+  - admin
+
 # Your landing page sections - add as many different content blocks as you like
 sections:
   - block: contact
