@@ -1,14 +1,14 @@
 ---
-title: 랜덤 여행 애플리케이션
+title: Random Travel Application
 date: 2024-03-31
 ---
 
-다트를 던져 랜덤으로 여행지를 추천해주는 애플리케이션입니다.
+It is an application that randomly recommends travel destinations by throwing darts.
 
 <!--more-->
 
-안드로이드 스튜디오를 기반으로 개발한 여행지 추천 애플리케이션입니다.
+It is a travel destination recommendation application developed based on Android Studios.
 
-git 링크는 다음과 같습니다.
+The git link is as follows.
 
 https://github.com/hodu26/oasis_con
