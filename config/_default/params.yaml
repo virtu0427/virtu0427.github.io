@@ -10,8 +10,9 @@ appearance:
   theme_night: custom
   font: minimal
   font_size: L
+  color: indigo
 
-color: indigo
+
 
 # SEO
 
