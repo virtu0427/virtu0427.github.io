@@ -1,9 +1,12 @@
 ---
 # Display name
-title: 조대인
+title: Jo Dae In
 
 # Is this the primary user of the site?
 superuser: true
+
+authors:
+  - admin
 
 # Role/position
 role: ''
@@ -14,11 +17,11 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 조대인
+#- name:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 제 연구분야는 정보 보안입니다. 침해사고 대응 및 모의해킹에 관심을 가지고 있으니, 필요시 문의 바랍니다!
+bio: My field of research is information security. I'm interested in responding to intrusion incidents and mock hacking, so please contact me if necessary!
 
 #interests:
 #- Artificial Intelligence
@@ -64,5 +67,5 @@ social:
 #email: ""
 ---
 
-전북대학교 공과대학 IT정보공학과 소속 조대인입니다!
-침해사고 대응, 모의해킹 등 여러 정보보안 분야에 관심을 가지고 있습니다.
+I'm Cho Dae-in from Chonbuk National University's IT Information Engineering Department!
+We are interested in various information security fields such as response to infringement accidents and mock hacking.

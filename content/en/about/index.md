@@ -9,15 +9,15 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: 안녕하세요! 전북대학교 3학년 재학중인 조대인입니다. 저는 정보보안에 관심이 있으며 특히 침해사고대응과 모의해킹 분야를 공부하고 있습니다. 또 전북대학교 공과대학 7호관 402호 정보보호 연구실에서 연구활동을 진행하고 있습니다.
+      text: Hello! I'm Cho Dae-in, a third-year student at Chonbuk National University. I'm interested in information security, and I'm especially studying the field of intrusion response and mock hacking. In addition, I'm conducting research activities in the information protection lab at Chonbuk National University's engineering college, No. 7 and No. 402.
       email: jdi0427@jbnu.ac.kr
       phone: +82-010-3346-4670
       address:
-        street: 전북대학교 공과대학 7호관 402호 정보보호 연구실
-        city: 전주시
-        region: 전라북도
+        street: Chonbuk National University Engineering College Building 7 402
+        city: JeonJu
+        region: Jeollabuk-do
         postcode: '54896'
-        country: 대한민국
+        country: Republic of Korea
         country_code: KO
       coordinates:
         latitude: '35.84601324617979'
