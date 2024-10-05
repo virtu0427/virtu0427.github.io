@@ -25,7 +25,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: 'google4cccb6a7c5607951.html'
+    google: 'google4cccb6a7c5607951'
     baidu: ''
 
 # Site header
