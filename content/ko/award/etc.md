@@ -8,10 +8,10 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 화이트햇 스쿨 수료
+      - title: 오아시스 해커톤 최우수상
         background:
           image:
-            filename: white.jpg
+            filename: oasis.jpg
             filters:
               brightness: 0.7
           position: right
