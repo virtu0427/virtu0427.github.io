@@ -34,7 +34,7 @@ sections:
           color: '#333'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '900'
+      slide_height: '400px'
       is_fullscreen: false
       loop: false
       interval: 2000
