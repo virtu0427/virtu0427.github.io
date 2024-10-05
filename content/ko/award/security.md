@@ -1,5 +1,5 @@
 ---
-title: 보안 관련 상장
+title: 상장 및 수료증
 date: 2022-10-24
 
 type: landing
