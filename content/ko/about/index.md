@@ -27,3 +27,6 @@ sections:
     design:
       columns: '3'
 ---
+
+저의 블로그 링크입니다!
+https://chaseit.tistory.com/
