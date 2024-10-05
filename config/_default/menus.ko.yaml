@@ -18,14 +18,6 @@ main:
   - name: 발표 자료
     url: seminar/
     weight: 100
-  - parent: 발표 자료
-    name: 23년도
-    url: /seminar/23
-    weight: 110
-  - parent: 발표 자료
-    name: 24년도
-    url: /seminar/24
-    weight: 120
 
   - name: 수상 내역
     url: award/

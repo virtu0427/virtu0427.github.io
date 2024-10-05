@@ -18,14 +18,7 @@ main:
   - name: Seminar
     url: seminar/
     weight: 100
-  - parent: Seminar
-    name: 23-years
-    url: /seminar/23
-    weight: 110
-  - parent: Seminar
-    name: 24-years
-    url: /seminar/24
-    weight: 120
+
   - name: Award
     url: award/
     weight: 130
