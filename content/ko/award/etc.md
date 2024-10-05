@@ -16,10 +16,10 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 국민 연금공단 CTF 대상
+      - title: 교내 창업 경진대회 대상
         background:
           image:
-            filename: ctf.jpg
+            filename: work.jpg
             filters:
               brightness: 0.7
           position: center
