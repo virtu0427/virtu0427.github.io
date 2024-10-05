@@ -1,5 +1,5 @@
 ---
-title: 상장 및 수료증
+title: certificate of merit and completion
 date: 2022-10-24
 
 type: landing
@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 화이트햇 스쿨 수료
+      - title: Completion of White Hat School
         background:
           image:
             filename: white.jpg
@@ -16,7 +16,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 국민연금공단 CTF 대상
+      - title: National Pension Service's CTF Grand Prize
         background:
           image:
             filename: ctf.jpg

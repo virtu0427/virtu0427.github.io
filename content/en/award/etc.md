@@ -1,5 +1,5 @@
 ---
-title: 상장 및 수료증
+title: certificate of merit and completion
 date: 2022-10-24
 
 type: landing
@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 오아시스 해커톤 최우수상
+      - title: Best Oasis Hackathon Award
         background:
           image:
             filename: oasis.jpg
@@ -16,7 +16,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 교내 창업 경진대회 대상
+      - title: The Grand Prize of the collage Start-up Competition
         background:
           image:
             filename: work.jpg
