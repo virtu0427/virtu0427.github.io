@@ -4,10 +4,11 @@ title: About
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
-author: admin
-
 # Your landing page sections - add as many different content blocks as you like
 sections:
+  - block: person
+    content:
+      title: 조대인
   - block: contact
     content:
       title: Contact
@@ -29,3 +30,6 @@ sections:
     design:
       columns: '3'
 ---
+
+블로그는 아래 링크를 참조해주세요
+https://chaseit.tistory.com/
