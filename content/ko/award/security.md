@@ -6,7 +6,7 @@ type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
-  - block:
+  - block: features
     background:
       image:
         filename: ai.jpg
