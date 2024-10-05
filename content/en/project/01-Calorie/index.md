@@ -3,12 +3,12 @@ title: 칼로리 계산 애플리케이션
 date: 2024-03-31
 ---
 
-하루 동안 먹은 음식의 칼로리를 계산해주는 애플리케이션 입니다.
+It is an application that calculates the calories of food eaten during the day.
 
 <!--more-->
 
-플라스크를 기반으로 만든 하루 칼로리 계산 프로그램입니다. 공공데이터를 활용하여 자동으로 음식의 칼로리를 계산해줍니다.
+It is a daily calorie counting program based on flasks. It automatically calculates calories in food using public data.
 
-git링크는 다음과 같습니다.
+The git link is as follows.
 
 https://github.com/hodu26/nutritional_injection
