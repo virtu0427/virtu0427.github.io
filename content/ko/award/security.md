@@ -11,6 +11,7 @@ sections:
     content:
       title: Section 1
       subtitle: A subtitle
+      image: ![screen reader text](ai.jpg "caption")
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: markdown
     id: section-2
