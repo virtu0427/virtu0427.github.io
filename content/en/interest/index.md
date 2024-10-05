@@ -1,5 +1,5 @@
 ---
-title: 관심 분야
+title: a field of interest
 date: 2022-10-24
 
 type: landing
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 정보 보안
-        content: 가장 관심있는 분야로 주로 침해사고 대응 및 모의해킹 분야에 관심을 가지고 있습니다.
+      - title: Cyber Security
+        content: As the most interested area, I am mainly interested in the field of response to infringement accidents and mock hacking.
         align: center
         background:
           image:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 인공지능
-        content: 생성형 AI의 등장으로 AI를 활용하는 분야에 대해 관심을 가지고 있습니다.
+      - title: Artificial intelligence
+        content: With the advent of Generative AI, we are interested in the field of using AI.
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: 사회 공학
-        content: 주로 사람들의 행동 패턴 및 피싱 등의 범죄에 대비하는 심리 분야에 관심이 있습니다.
+      - title: social engineering
+        content: I am mainly interested in the psychological field of preparing for crimes such as people's behavior patterns and phishing.
         align: right
         background:
           image:

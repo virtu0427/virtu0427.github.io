@@ -18,5 +18,5 @@ design:
 #  css_class: fullscreen
 ---
 
-안녕하세요, 저는 전북대학교 IT정보공학과 재학중인 조대인 입니다! 현재 정보보호 연구실(BCG 연구실)에서 연구활동을 진행하고 있어요. 보안을 공부한 경력은 4년차 입니다. 정보보안과 관련해서 여러 프로젝트를 진행할 수 있으니 필요시 문의 부탁드립니다!
+Hello, I'm Cho Dae-in and I'm currently studying IT information engineering at Chonbuk National University! I'm currently conducting research activities at the Information Protection Laboratory (BCG Laboratory). I have 4 years of experience studying security. We can work on several projects related to information security, so please contact us if necessary!
 {style="font-size: 1.0rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
